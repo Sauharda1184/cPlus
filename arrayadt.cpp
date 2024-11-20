@@ -48,7 +48,7 @@ public:
 int main() {
  
  
-    Array arr(10);
+    Array arr(11);
     arr.create();
     arr.display();
  
